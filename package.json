@@ -1,0 +1,19 @@
+{
+  "name": "hello",
+  "version": "1.0.0",
+  "description": "The Hello Project",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atjuan/hello.git"
+  },
+  "author": "Juan Antón",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/atjuan/hello/issues"
+  },
+  "homepage": "https://github.com/atjuan/hello#readme"
+}
