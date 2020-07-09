@@ -17,11 +17,6 @@
     "url": "https://github.com/atjuan/hello/issues"
   },
   "homepage": "https://github.com/atjuan/hello#readme",
-  "dependencies": {
-    "bootstrap": "^4.5.0",
-    "jquery": "^3.5.1",
-    "popper.js": "^1.16.1"
-  },
   "devDependencies": {
     "lite-server": "^2.5.4"
   }
